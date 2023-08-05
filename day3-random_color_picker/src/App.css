@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.colorBackground{
+  height: 15rem;
+  width: 15rem;
+  border-radius: 100%;
+  border: 2px solid black;
+  margin: auto;
+  padding: 4rem;
+}
