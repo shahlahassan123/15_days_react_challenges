@@ -1,8 +1,6 @@
-# React + Vite
+A drag and drop trash can, drag pieces of rubbish into the bin to delete them.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Concepts Explored:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Implementing drag & drop interfaces
+- onDragStart + onDragOver + onDrop
