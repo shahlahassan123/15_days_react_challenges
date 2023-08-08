@@ -1,0 +1,1 @@
+A banking app where you can deposit or withdraw money, and which logs your banking activity.
